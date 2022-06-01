@@ -29,5 +29,11 @@ Working with Python Django Shell :\
   
 Now Making of User App :\
   first, run -> python manage.py startapp user_app\
-  then, add the app in project settings.py file\
+  then, add the app in project settings.py file
+  
+  
+Making Register Page :
+  we are using crispy form library to make our forms look good
+  Add it to Installed Apps of Project/settings.py file
+  
   
